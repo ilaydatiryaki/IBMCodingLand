@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  margin-left: 200px;
+  background: #5d9ab2 url("img_tree.png") no-repeat top left;
+}
+
+.center_div {
+  border: 1px solid gray;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  background-color: #d0f0f6;
+  text-align: left;
+  padding: 8px;
+}
+</style>
+</head>
+<body>
+
+<div class="center_div">
+  <h1>Distruptive Innovation</h1>
+  <p>TThis type of innovation, known as disruptive innovation, can be defined as the spread of a product or service in a way that eliminates competitors after it is produced and offered at low cost.Disruptive types of innovation can occur in many industries that appear to be unrelated. The important thing is for a product or service to enter the market at a low cost, eliminating all existing competitors. For example, Kodak was devastated by the fact that all smartphones were used as a professional camera and digital photos gained importance. Similarly, Nokia, which cannot adapt to smartphone technology, has been experiencing problems in recent years. All of this shows how dangerous disruptive innovation can be for even the world's largest companies. Generally, examples are given in the field of technology, but it is possible to see this kind of innovation in the field of production. Let's look at the industries with high potential for disruptive innovation.</p>
+</div>
+
+</body>
+</html>
